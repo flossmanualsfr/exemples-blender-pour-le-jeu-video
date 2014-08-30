@@ -1,0 +1,11 @@
+Gameplay :
+- Règles : C'est un jeu qui se joue à deux joueurs, une sorte de course poursuite entre un policier et un voleur. L'écran n'est pas partagé, la caméra se place entre les deux joueurs. Si le policier sort du champs de vision de la caméra le voleur a gagné, si le policier touche le voleur, il a gagné. Il y a un système de score, le voleur part avec 2000$ et perd de l'argent petit à petit, le but est donc de s'échapper avec le plus d'argent possible (ou d'attraper le voleur avec le plus d'argent possible).
+- Déplacements : Un côté un peu retro, les inputs sont exigeants mais on été simplifié pour rester suffisamment accessibles (surtout les wall-jumps qui demandaient un bon timming, maintenant plus souples). Lorsqu'un personnage chute ou se cogne la tête il perd (presque) toute sa vitesse; lorsqu'il court au sol il gagne progressivement de la vitesse. Les jumps/wall-jumps ne font pas perdre de vitesse. La roulade permet de regagner de la vitesse après une chute. Le double-jump ne s'effectue pas sur place (il faut être en mouvement). Les wall-jump s'effectuent dans la direction opposée du mur (il faut se "détacher" puis sauter à nouveau, faire des sortes de 'Z' dans les airs).
+Pour l'instant il n'y a pas de bonus.
+
+Le multijoueur est présent et opérationnel ! Accessible simplement depuis le menu, on rentre un nom et on se connecte. Il s'agit d'un système type "free-run", chacun est libre de courir où il veut !
+Un serveur serra en ligne pendant une semaine (c'est lui qui hébergera la partie).
+Le tout maintenant c'est de fixer une date pour avoir un maximum de personnes connectées.
+
+
+Ce jeu a été réalisé en 2 semaines, par JuDePom & XAM, pour le concours Origame.
